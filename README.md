@@ -27,7 +27,7 @@
 
 ## OUTPUT:
 ### Assembly of polar 3d printer
-
+![image](https://github.com/Madhavareddy09/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/145742470/3a985ee7-aecb-49cb-b951-060185554335)
 ### Y-Axis Base :
 
 The base of the printer that supports the rest of the components
@@ -75,11 +75,11 @@ melts and extrudes the filament to create the printed object.
 ### Filament :
 material that is used to create the printed object.
 
-![image](https://github.com/Madhavareddy09/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/145742470/3a985ee7-aecb-49cb-b951-060185554335)
 
 ### Playing with Axes
 
-![image](https://github.com/Madhavareddy09/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/145742470/c9ead1a9-11c3-42ca-8a5c-f53f9154c87a)
+![image](https://github.com/Madhavareddy09/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/145742470/3d744edd-4f35-4016-b3f0-07b5a034b0d9)
+
 
 
 ### Name: K.Madhava reddy
